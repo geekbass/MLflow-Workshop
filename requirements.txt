@@ -1,0 +1,4 @@
+mlflow==2.8.1
+pandas==1.5.1
+xgboost==1.6.2
+argparse
