@@ -14,3 +14,7 @@ jupyter lab
 ```
 
 Open the 'MLflow Workshop' notebook and run the cells in order.
+
+
+### Google Colab
+To use a Colab Notebook go [here](https://colab.research.google.com/drive/1RzqWVqfYYRMS2PJx0U1f5TCYDjtbyclE?usp=sharing).
